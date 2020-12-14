@@ -1,4 +1,4 @@
-; Macro Machine!     (Program_6 _Daniel Yu_OSU_ID_934257505.asm)
+; Macro Machine!     
 
 ; Author: Daniel Yu
 ; Last Modified: 06/06/2020
